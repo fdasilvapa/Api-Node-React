@@ -25,7 +25,7 @@ Este é um projeto desenvolvido para fins de estudo, com o objetivo de aplicar e
 
   
 
-Todo o crédito pelo conceito, didática e pela base de código deste projeto é do **Rodolfo Mori** e do canal **[DevClub | Programação](https://www.youtube.com/@DevClub-programacao)**.
+Todo o crédito pelo conceito, didática e pela base de código deste projeto é do **Rodolfo Mori** e do canal **[DevClub | Programação](https://www.youtube.com/@canaldevclub)**.
 
   
 
