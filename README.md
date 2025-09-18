@@ -137,6 +137,6 @@ A aplicação frontend estará acessível em http://localhost:5173 (ou a porta p
 👤 Contato
 ---
 Felipe da Silva Pereira Alves
-| **Github** | [github.com/fdasilvapa](github.com/fdasilvapa) |
+| **Github** | [https://github.com/fdasilvapa](https://github.com/fdasilvapa) |
 |--|--|
-| **LinkedIn** | [LinkedIn Felipe](www.linkedin.com/in/felipe-da-silva-pereira-alves-693841264) |
+| **LinkedIn** | [www.linkedin.com/in/felipe-da-silva-pereira-alves-693841264](www.linkedin.com/in/felipe-da-silva-pereira-alves-693841264) |
