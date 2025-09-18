@@ -1,5 +1,46 @@
-node_modules
+# Arquivos de log (geral)
+# ---------------------------------
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 
+# Dependências e Builds (geral)
+# ---------------------------------
+# Ignora pastas de dependências em qualquer subpasta (backend/ ou frontend/)
+node_modules/
+
+# Ignora pastas de build do frontend
+/frontend/dist/
+/frontend/dist-ssr/
+
+# Arquivos de ambiente e caches (geral)
+# ---------------------------------
+# Arquivos de variáveis de ambiente locais. NUNCA comitar senhas!
 .env
+.env.local
+.env.*.local
 
-/generated/prisma
+# Arquivos específicos do Backend
+# ---------------------------------
+# Ignora o Prisma Client gerado para não versionar código de máquina
+/backend/node_modules/.prisma/client/
+/backend/prisma/generated/
+
+# Arquivos de Sistema e IDEs (geral)
+# ---------------------------------
+.DS_Store
+.idea/
+.vscode/*
+# Exceção: permite compartilhar as extensões recomendadas do VS Code com o time
+!/.vscode/extensions.json
+
+# Arquivos de projetos Visual Studio
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
