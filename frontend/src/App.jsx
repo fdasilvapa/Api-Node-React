@@ -1,10 +1,9 @@
-import { BrowserRouter, Route, Routes, Navigate } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 import Cadastro from './pages/cadastro'
 import Login from './pages/login'
 
-
 function App() {
-
+  
   return (
     <BrowserRouter>
       <Routes>
