@@ -3,11 +3,8 @@
 
   
 
-![Prévia do Projeto](https://via.placeholder.com/900x450.png?text=Insira+um+print+do+seu+projeto+aqui)
+![Prévia do Projeto](./assets/images/Preview.png)
 
-> [DICA]: Tire um print da sua aplicação funcionando e substitua o link acima para deixar seu repositório mais atraente!
-
-  
 
 ---
 
